@@ -1,0 +1,9 @@
+https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/processed/insp_sitrep__cumulative_confirmed_cases__daily.csv
+https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/processed/insp_sitrep__cumulative_confirmed_deaths__daily.csv
+https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/processed/insp_sitrep__cumulative_suspected_cases__daily.csv
+https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/processed/insp_sitrep__cumulative_suspected_deaths__daily.csv
+https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/processed/insp_sitrep__hospitalised__daily.csv
+https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/processed/insp_sitrep__national_cumulative_confirmed_cases__daily.csv
+https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/processed/insp_sitrep__national_cumulative_confirmed_deaths__daily.csv
+https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/processed/insp_sitrep__national_cumulative_suspected_cases__daily.csv
+https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/processed/insp_sitrep__new_hosp_admissions__daily.csv

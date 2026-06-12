@@ -1,0 +1,43 @@
+name: Generate Hubverse Observed Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every other day at 03:00 UTC.
+    - cron: "0 3 */2 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate hubverse observed data file
+        run: |
+          python convert_to_hubverse.py \
+            --links-file source_links.txt \
+            --output hubverse_observed_data.csv
+
+      - name: Commit and push if data changed
+        run: |
+          if git diff --quiet -- hubverse_observed_data.csv; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add hubverse_observed_data.csv
+          git commit -m "chore: refresh hubverse observed data"
+          git push
