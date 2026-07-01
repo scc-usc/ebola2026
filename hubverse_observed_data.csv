@@ -2299,3 +2299,6 @@ target_end_date,target,location,observation
 2026-06-25,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,1203
 2026-06-25,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,321
 2026-06-25,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,265
+2026-06-27,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,1274
+2026-06-27,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,360
+2026-06-27,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,239
