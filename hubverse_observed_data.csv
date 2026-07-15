@@ -1,11 +1,11 @@
 target_end_date,target,location,observation
-2026-05-14,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,0
-2026-05-14,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,57
+2026-05-14,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,0
+2026-05-14,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,57
 2026-05-14,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,8
 2026-05-14,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,4
 2026-05-14,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,246
 2026-05-15,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,0
-2026-05-15,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,0
+2026-05-15,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,0
 2026-05-15,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,13
 2026-05-15,insp_sitrep__cumulative_suspected_cases__daily,Bunia,8
 2026-05-15,insp_sitrep__cumulative_suspected_cases__daily,Rwampara,72
@@ -16,19 +16,19 @@ target_end_date,target,location,observation
 2026-05-18,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,1
 2026-05-18,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-05-18,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,1
-2026-05-18,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,1
-2026-05-18,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,4
+2026-05-18,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,1
+2026-05-18,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,4
 2026-05-18,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,19
 2026-05-18,insp_sitrep__cumulative_suspected_cases__daily,Bunia,61
 2026-05-18,insp_sitrep__cumulative_suspected_cases__daily,Butembo,1
 2026-05-18,insp_sitrep__cumulative_suspected_cases__daily,Goma,1
 2026-05-18,insp_sitrep__cumulative_suspected_cases__daily,Katwa,1
-2026-05-18,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,302
-2026-05-18,insp_sitrep__cumulative_suspected_cases__daily,Nyakunde,14
+2026-05-18,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,302
+2026-05-18,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,14
 2026-05-18,insp_sitrep__cumulative_suspected_cases__daily,Rwampara,136
 2026-05-18,insp_sitrep__cumulative_suspected_deaths__daily,Bunia,18
-2026-05-18,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,74
-2026-05-18,insp_sitrep__cumulative_suspected_deaths__daily,Nyakunde,1
+2026-05-18,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,74
+2026-05-18,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,1
 2026-05-18,insp_sitrep__cumulative_suspected_deaths__daily,Rwampara,38
 2026-05-18,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,33
 2026-05-18,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,4
@@ -37,23 +37,23 @@ target_end_date,target,location,observation
 2026-05-19,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,1
 2026-05-19,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-05-19,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,1
-2026-05-19,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,13
-2026-05-19,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,4
+2026-05-19,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,13
+2026-05-19,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,4
 2026-05-19,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,25
 2026-05-19,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,0
-2026-05-19,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,0
-2026-05-19,insp_sitrep__cumulative_confirmed_deaths__daily,Nyakunde,0
+2026-05-19,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,0
+2026-05-19,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,0
 2026-05-19,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,0
 2026-05-19,insp_sitrep__cumulative_suspected_cases__daily,Bunia,90
 2026-05-19,insp_sitrep__cumulative_suspected_cases__daily,Butembo,1
 2026-05-19,insp_sitrep__cumulative_suspected_cases__daily,Goma,1
 2026-05-19,insp_sitrep__cumulative_suspected_cases__daily,Katwa,1
-2026-05-19,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,309
-2026-05-19,insp_sitrep__cumulative_suspected_cases__daily,Nyakunde,19
+2026-05-19,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,309
+2026-05-19,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,19
 2026-05-19,insp_sitrep__cumulative_suspected_cases__daily,Rwampara,154
 2026-05-19,insp_sitrep__cumulative_suspected_deaths__daily,Bunia,23
-2026-05-19,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,77
-2026-05-19,insp_sitrep__cumulative_suspected_deaths__daily,Nyakunde,5
+2026-05-19,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,77
+2026-05-19,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,5
 2026-05-19,insp_sitrep__cumulative_suspected_deaths__daily,Rwampara,43
 2026-05-19,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,51
 2026-05-19,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,4
@@ -63,38 +63,38 @@ target_end_date,target,location,observation
 2026-05-20,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,1
 2026-05-20,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-05-20,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,1
-2026-05-20,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,13
-2026-05-20,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,5
+2026-05-20,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,13
+2026-05-20,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,5
 2026-05-20,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,24
 2026-05-20,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,0
-2026-05-20,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,0
-2026-05-20,insp_sitrep__cumulative_confirmed_deaths__daily,Nyakunde,0
+2026-05-20,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,0
+2026-05-20,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,0
 2026-05-20,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,0
 2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Bambu,2
 2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Bunia,125
 2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Butembo,7
 2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Goma,1
 2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Katwa,13
-2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,317
-2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Nyakunde,28
+2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,317
+2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,28
 2026-05-20,insp_sitrep__cumulative_suspected_cases__daily,Rwampara,179
 2026-05-20,insp_sitrep__cumulative_suspected_deaths__daily,Bunia,31
 2026-05-20,insp_sitrep__cumulative_suspected_deaths__daily,Butembo,0
 2026-05-20,insp_sitrep__cumulative_suspected_deaths__daily,Goma,0
 2026-05-20,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
-2026-05-20,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,80
-2026-05-20,insp_sitrep__cumulative_suspected_deaths__daily,Nyakunde,5
+2026-05-20,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,80
+2026-05-20,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,5
 2026-05-20,insp_sitrep__cumulative_suspected_deaths__daily,Rwampara,44
 2026-05-20,insp_sitrep__hospitalised__daily,Bunia,40
-2026-05-20,insp_sitrep__hospitalised__daily,Mongbalu,30
-2026-05-20,insp_sitrep__hospitalised__daily,Nyakunde,16
+2026-05-20,insp_sitrep__hospitalised__daily,Mongbwalu,30
+2026-05-20,insp_sitrep__hospitalised__daily,Nyankunde,16
 2026-05-20,insp_sitrep__hospitalised__daily,Rwampara,54
 2026-05-20,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,64
 2026-05-20,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,6
 2026-05-20,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,671
 2026-05-20,insp_sitrep__new_hosp_admissions__daily,Bunia,28
-2026-05-20,insp_sitrep__new_hosp_admissions__daily,Mongbalu,21
-2026-05-20,insp_sitrep__new_hosp_admissions__daily,Nyakunde,15
+2026-05-20,insp_sitrep__new_hosp_admissions__daily,Mongbwalu,21
+2026-05-20,insp_sitrep__new_hosp_admissions__daily,Nyankunde,15
 2026-05-20,insp_sitrep__new_hosp_admissions__daily,Rwampara,37
 2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Bambu,1
 2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,15
@@ -102,10 +102,10 @@ target_end_date,target,location,observation
 2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,1
 2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Kilo,1
-2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,1
-2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,14
+2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,1
+2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,14
 2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,1
-2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,11
+2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,11
 2026-05-21,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,31
 2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Bambu,0
 2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,1
@@ -113,10 +113,10 @@ target_end_date,target,location,observation
 2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,0
 2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Kilo,0
-2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,0
-2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,0
+2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,0
+2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,0
 2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
-2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Nyakunde,0
+2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,0
 2026-05-21,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,1
 2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Bambu,2
 2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Bunia,166
@@ -124,10 +124,10 @@ target_end_date,target,location,observation
 2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Goma,1
 2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Katwa,13
 2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Kilo,1
-2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,322
+2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,322
 2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Nizi,1
-2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Nyakunde,38
+2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,38
 2026-05-21,insp_sitrep__cumulative_suspected_cases__daily,Rwampara,193
 2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Bambu,0
 2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Bunia,34
@@ -135,21 +135,21 @@ target_end_date,target,location,observation
 2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Goma,0
 2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
 2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,0
-2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,84
+2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,84
 2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,0
-2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Nyakunde,6
+2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,6
 2026-05-21,insp_sitrep__cumulative_suspected_deaths__daily,Rwampara,51
 2026-05-21,insp_sitrep__hospitalised__daily,Bunia,50
-2026-05-21,insp_sitrep__hospitalised__daily,Mongbalu,36
-2026-05-21,insp_sitrep__hospitalised__daily,Nyakunde,23
+2026-05-21,insp_sitrep__hospitalised__daily,Mongbwalu,36
+2026-05-21,insp_sitrep__hospitalised__daily,Nyankunde,23
 2026-05-21,insp_sitrep__hospitalised__daily,Rwampara,88
 2026-05-21,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,83
 2026-05-21,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,9
 2026-05-21,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,746
 2026-05-21,insp_sitrep__new_hosp_admissions__daily,Bunia,36
-2026-05-21,insp_sitrep__new_hosp_admissions__daily,Mongbalu,27
-2026-05-21,insp_sitrep__new_hosp_admissions__daily,Nyakunde,16
+2026-05-21,insp_sitrep__new_hosp_admissions__daily,Mongbwalu,27
+2026-05-21,insp_sitrep__new_hosp_admissions__daily,Nyankunde,16
 2026-05-21,insp_sitrep__new_hosp_admissions__daily,Rwampara,76
 2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Aru,1
 2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Bambu,1
@@ -158,10 +158,10 @@ target_end_date,target,location,observation
 2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,0
 2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Kilo,1
-2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,1
-2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,10
+2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,1
+2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,10
 2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
-2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,9
+2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,9
 2026-05-22,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,32
 2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Bambu,0
 2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,2
@@ -170,10 +170,10 @@ target_end_date,target,location,observation
 2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,0
 2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Kilo,0
 2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Komanda,1
-2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,0
-2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,0
+2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,0
+2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,0
 2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
-2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Nyakunde,0
+2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,0
 2026-05-22,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,2
 2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Aru,3
 2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Bambu,4
@@ -182,10 +182,10 @@ target_end_date,target,location,observation
 2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Goma,1
 2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Katwa,13
 2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Kilo,6
-2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,339
+2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,339
 2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Nizi,5
-2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Nyakunde,45
+2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,45
 2026-05-22,insp_sitrep__cumulative_suspected_cases__daily,Rwampara,221
 2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Bambu,0
 2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Bunia,42
@@ -193,21 +193,21 @@ target_end_date,target,location,observation
 2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Goma,0
 2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
 2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,2
-2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,88
+2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,88
 2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,1
-2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Nyakunde,8
+2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,8
 2026-05-22,insp_sitrep__cumulative_suspected_deaths__daily,Rwampara,63
 2026-05-22,insp_sitrep__hospitalised__daily,Bunia,44
-2026-05-22,insp_sitrep__hospitalised__daily,Mongbalu,34
-2026-05-22,insp_sitrep__hospitalised__daily,Nyakunde,24
+2026-05-22,insp_sitrep__hospitalised__daily,Mongbwalu,34
+2026-05-22,insp_sitrep__hospitalised__daily,Nyankunde,24
 2026-05-22,insp_sitrep__hospitalised__daily,Rwampara,45
 2026-05-22,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,91
 2026-05-22,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,10
 2026-05-22,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,867
 2026-05-22,insp_sitrep__new_hosp_admissions__daily,Bunia,11
-2026-05-22,insp_sitrep__new_hosp_admissions__daily,Mongbalu,4
-2026-05-22,insp_sitrep__new_hosp_admissions__daily,Nyakunde,2
+2026-05-22,insp_sitrep__new_hosp_admissions__daily,Mongbwalu,4
+2026-05-22,insp_sitrep__new_hosp_admissions__daily,Nyankunde,2
 2026-05-22,insp_sitrep__new_hosp_admissions__daily,Rwampara,11
 2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Aru,1
 2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Bambu,0
@@ -216,10 +216,10 @@ target_end_date,target,location,observation
 2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,4
 2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Kilo,1
-2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,1
-2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,19
+2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,1
+2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,19
 2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
-2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,9
+2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,9
 2026-05-23,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,32
 2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Bambu,0
 2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,2
@@ -228,10 +228,10 @@ target_end_date,target,location,observation
 2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,0
 2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Kilo,0
 2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Komanda,1
-2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,0
-2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,0
+2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,0
+2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,0
 2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
-2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Nyakunde,0
+2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,0
 2026-05-23,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,2
 2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Aru,4
 2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Bambu,6
@@ -240,10 +240,10 @@ target_end_date,target,location,observation
 2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Goma,1
 2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Katwa,13
 2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Kilo,6
-2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,339
+2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,339
 2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Nizi,6
-2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Nyakunde,45
+2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,45
 2026-05-23,insp_sitrep__cumulative_suspected_cases__daily,Rwampara,228
 2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Aru,1
 2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Bambu,2
@@ -252,23 +252,23 @@ target_end_date,target,location,observation
 2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Goma,0
 2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
 2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,2
-2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,88
+2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,88
 2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,2
-2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Nyakunde,8
+2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,8
 2026-05-23,insp_sitrep__cumulative_suspected_deaths__daily,Rwampara,69
 2026-05-23,insp_sitrep__hospitalised__daily,Aru,2
 2026-05-23,insp_sitrep__hospitalised__daily,Bunia,50
-2026-05-23,insp_sitrep__hospitalised__daily,Mongbalu,31
-2026-05-23,insp_sitrep__hospitalised__daily,Nyakunde,33
+2026-05-23,insp_sitrep__hospitalised__daily,Mongbwalu,31
+2026-05-23,insp_sitrep__hospitalised__daily,Nyankunde,33
 2026-05-23,insp_sitrep__hospitalised__daily,Rwampara,25
 2026-05-23,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,101
 2026-05-23,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,10
 2026-05-23,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,904
 2026-05-23,insp_sitrep__new_hosp_admissions__daily,Aru,0
 2026-05-23,insp_sitrep__new_hosp_admissions__daily,Bunia,9
-2026-05-23,insp_sitrep__new_hosp_admissions__daily,Mongbalu,3
-2026-05-23,insp_sitrep__new_hosp_admissions__daily,Nyakunde,7
+2026-05-23,insp_sitrep__new_hosp_admissions__daily,Mongbwalu,3
+2026-05-23,insp_sitrep__new_hosp_admissions__daily,Nyankunde,7
 2026-05-23,insp_sitrep__new_hosp_admissions__daily,Rwampara,4
 2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Aru,1
 2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Bambu,2
@@ -278,10 +278,10 @@ target_end_date,target,location,observation
 2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,4
 2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Kilo,1
-2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,1
-2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,19
+2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,1
+2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,19
 2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
-2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,9
+2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,9
 2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,1
 2026-05-24,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,32
 2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Bambu,0
@@ -291,10 +291,10 @@ target_end_date,target,location,observation
 2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,0
 2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Kilo,0
 2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Komanda,1
-2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,0
-2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,0
+2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,0
+2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,0
 2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
-2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Nyakunde,0
+2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,0
 2026-05-24,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,2
 2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Aru,4
 2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Bambu,6
@@ -303,10 +303,10 @@ target_end_date,target,location,observation
 2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Goma,0
 2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Katwa,0
 2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Kilo,8
-2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,339
+2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,339
 2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Nizi,6
-2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Nyakunde,45
+2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,45
 2026-05-24,insp_sitrep__cumulative_suspected_cases__daily,Rwampara,228
 2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Aru,1
 2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Bambu,2
@@ -315,16 +315,16 @@ target_end_date,target,location,observation
 2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Goma,0
 2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
 2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,2
-2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,88
+2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,88
 2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,2
-2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Nyakunde,11
+2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,11
 2026-05-24,insp_sitrep__cumulative_suspected_deaths__daily,Rwampara,69
 2026-05-24,insp_sitrep__hospitalised__daily,Aru,2
 2026-05-24,insp_sitrep__hospitalised__daily,Bambu,2
 2026-05-24,insp_sitrep__hospitalised__daily,Bunia,53
-2026-05-24,insp_sitrep__hospitalised__daily,Mongbalu,18
-2026-05-24,insp_sitrep__hospitalised__daily,Nyakunde,33
+2026-05-24,insp_sitrep__hospitalised__daily,Mongbwalu,18
+2026-05-24,insp_sitrep__hospitalised__daily,Nyankunde,33
 2026-05-24,insp_sitrep__hospitalised__daily,Rwampara,25
 2026-05-24,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,105
 2026-05-24,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,10
@@ -332,8 +332,8 @@ target_end_date,target,location,observation
 2026-05-24,insp_sitrep__new_hosp_admissions__daily,Aru,0
 2026-05-24,insp_sitrep__new_hosp_admissions__daily,Bambu,0
 2026-05-24,insp_sitrep__new_hosp_admissions__daily,Bunia,9
-2026-05-24,insp_sitrep__new_hosp_admissions__daily,Mongbalu,5
-2026-05-24,insp_sitrep__new_hosp_admissions__daily,Nyakunde,0
+2026-05-24,insp_sitrep__new_hosp_admissions__daily,Mongbwalu,5
+2026-05-24,insp_sitrep__new_hosp_admissions__daily,Nyankunde,0
 2026-05-24,insp_sitrep__new_hosp_admissions__daily,Rwampara,6
 2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Aru,1
 2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Bambu,0
@@ -344,19 +344,19 @@ target_end_date,target,location,observation
 2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,4
 2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Kilo,1
 2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Kyondo,1
-2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,1
-2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,19
+2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,1
+2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,19
 2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
-2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,9
+2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,9
 2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,1
 2026-05-25,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,32
 2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,2
 2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Kilo,0
 2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Komanda,1
-2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,0
-2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,0
-2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Nyakunde,0
+2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,0
+2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,0
+2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,0
 2026-05-25,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,2
 2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Aru,4
 2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Bambu,6
@@ -365,8 +365,8 @@ target_end_date,target,location,observation
 2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Goma,0
 2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Katwa,13
 2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Kilo,18
-2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,364
+2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,364
 2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Nizi,9
 2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,66
 2026-05-25,insp_sitrep__cumulative_suspected_cases__daily,Rwampara,240
@@ -379,8 +379,8 @@ target_end_date,target,location,observation
 2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Karisimbi,0
 2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
 2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,0
-2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,88
+2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,88
 2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,2
 2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,15
 2026-05-25,insp_sitrep__cumulative_suspected_deaths__daily,Oicha,0
@@ -400,10 +400,10 @@ target_end_date,target,location,observation
 2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Kilo,1
 2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Kyondo,1
 2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,0
-2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,1
-2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,20
+2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,1
+2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,20
 2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
-2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,10
+2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,10
 2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,1
 2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Rimba,0
 2026-05-26,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,33
@@ -414,10 +414,10 @@ target_end_date,target,location,observation
 2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,0
 2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Kilo,0
 2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Komanda,1
-2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,0
-2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,0
+2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,0
+2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,0
 2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
-2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Nyakunde,0
+2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,0
 2026-05-26,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,2
 2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Aru,4
 2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Bambu,10
@@ -431,8 +431,8 @@ target_end_date,target,location,observation
 2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Kilo,18
 2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Kyondo,3
 2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Mambasa,5
-2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,375
+2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,375
 2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Nizi,15
 2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,70
 2026-05-26,insp_sitrep__cumulative_suspected_cases__daily,Oicha,8
@@ -451,8 +451,8 @@ target_end_date,target,location,observation
 2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,0
 2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Kyondo,0
 2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Mambasa,1
-2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,88
+2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,88
 2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,2
 2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,15
 2026-05-26,insp_sitrep__cumulative_suspected_deaths__daily,Oicha,0
@@ -473,10 +473,10 @@ target_end_date,target,location,observation
 2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,4
 2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Kilo,1
 2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,0
-2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,1
-2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,20
+2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,1
+2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,20
 2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
-2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Nyakunde,10
+2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,10
 2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,2
 2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Rimba,0
 2026-05-27,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,33
@@ -487,10 +487,10 @@ target_end_date,target,location,observation
 2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,0
 2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Kilo,0
 2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Komanda,1
-2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,0
-2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,0
+2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,0
+2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,0
 2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
-2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Nyakunde,0
+2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,0
 2026-05-27,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,2
 2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Aru,4
 2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Bambu,6
@@ -499,8 +499,8 @@ target_end_date,target,location,observation
 2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Goma,0
 2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Kalunguta,13
 2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Kilo,8
-2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,339
+2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,339
 2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Nizi,6
 2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,45
 2026-05-27,insp_sitrep__cumulative_suspected_cases__daily,Oicha,0
@@ -515,8 +515,8 @@ target_end_date,target,location,observation
 2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
 2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,2
 2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Kyondo,0
-2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,88
+2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,88
 2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,2
 2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,11
 2026-05-27,insp_sitrep__cumulative_suspected_deaths__daily,Oicha,0
@@ -526,8 +526,8 @@ target_end_date,target,location,observation
 2026-05-27,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,906
 2026-05-27,insp_sitrep__new_hosp_admissions__daily,Bambu,6
 2026-05-27,insp_sitrep__new_hosp_admissions__daily,Bunia,14
-2026-05-27,insp_sitrep__new_hosp_admissions__daily,Mongbalu,10
-2026-05-27,insp_sitrep__new_hosp_admissions__daily,Nyakunde,39
+2026-05-27,insp_sitrep__new_hosp_admissions__daily,Mongbwalu,10
+2026-05-27,insp_sitrep__new_hosp_admissions__daily,Nyankunde,39
 2026-05-27,insp_sitrep__new_hosp_admissions__daily,Rwampara,8
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Aru,2
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Aungba,1
@@ -536,7 +536,7 @@ target_end_date,target,location,observation
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,80
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,5
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Damas,1
-2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Karisimbi,0
@@ -546,7 +546,7 @@ target_end_date,target,location,observation
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Kyondo,1
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Lita,1
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,47
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
 2026-05-28,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,19
@@ -559,7 +559,7 @@ target_end_date,target,location,observation
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,8
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,2
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Jiba,0
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
@@ -570,7 +570,7 @@ target_end_date,target,location,observation
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Kyondo,0
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Lita,0
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,10
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
 2026-05-28,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,1
@@ -581,13 +581,13 @@ target_end_date,target,location,observation
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Bunia,268
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Butembo,7
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Damas,1
-2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Gethy,3
+2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Gety,3
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Goma,0
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Jiba,2
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Kalunguta,13
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Kilo,8
-2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,346
+2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,346
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Nizi,6
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,52
 2026-05-28,insp_sitrep__cumulative_suspected_cases__daily,Oicha,0
@@ -603,8 +603,8 @@ target_end_date,target,location,observation
 2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
 2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,2
 2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Kyondo,0
-2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,88
+2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,88
 2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,2
 2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,12
 2026-05-28,insp_sitrep__cumulative_suspected_deaths__daily,Oicha,0
@@ -619,7 +619,7 @@ target_end_date,target,location,observation
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,80
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,5
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Damas,1
-2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Karisimbi,0
@@ -630,7 +630,7 @@ target_end_date,target,location,observation
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Lita,1
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Manguredjipa,0
-2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,47
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
 2026-05-29,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,19
@@ -643,7 +643,7 @@ target_end_date,target,location,observation
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,8
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,2
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Jiba,0
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
@@ -654,7 +654,7 @@ target_end_date,target,location,observation
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Kyondo,0
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Lita,0
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,10
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
 2026-05-29,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,1
@@ -665,13 +665,13 @@ target_end_date,target,location,observation
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Bunia,268
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Butembo,7
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Damas,1
-2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Gethy,3
+2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Gety,3
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Goma,0
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Jiba,2
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Kalunguta,13
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Kilo,8
-2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,346
+2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,346
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Nizi,6
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,52
 2026-05-29,insp_sitrep__cumulative_suspected_cases__daily,Oicha,0
@@ -687,8 +687,8 @@ target_end_date,target,location,observation
 2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
 2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,2
 2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Kyondo,0
-2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,88
+2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,88
 2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,2
 2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,12
 2026-05-29,insp_sitrep__cumulative_suspected_deaths__daily,Oicha,0
@@ -696,8 +696,8 @@ target_end_date,target,location,observation
 2026-05-29,insp_sitrep__hospitalised__daily,Aru,2
 2026-05-29,insp_sitrep__hospitalised__daily,Bambu,5
 2026-05-29,insp_sitrep__hospitalised__daily,Bunia,17
-2026-05-29,insp_sitrep__hospitalised__daily,Mongbalu,11
-2026-05-29,insp_sitrep__hospitalised__daily,Nyakunde,38
+2026-05-29,insp_sitrep__hospitalised__daily,Mongbwalu,11
+2026-05-29,insp_sitrep__hospitalised__daily,Nyankunde,38
 2026-05-29,insp_sitrep__hospitalised__daily,Rwampara,13
 2026-05-29,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,263
 2026-05-29,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,42
@@ -709,7 +709,7 @@ target_end_date,target,location,observation
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,80
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,5
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Damas,1
-2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Karisimbi,0
@@ -720,7 +720,7 @@ target_end_date,target,location,observation
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Lita,1
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Manguredjipa,0
-2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,47
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
 2026-05-30,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,19
@@ -733,7 +733,7 @@ target_end_date,target,location,observation
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,8
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,2
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Jiba,0
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
@@ -744,7 +744,7 @@ target_end_date,target,location,observation
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Kyondo,0
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Lita,0
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,10
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
 2026-05-30,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,1
@@ -755,13 +755,13 @@ target_end_date,target,location,observation
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Bunia,268
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Butembo,7
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Damas,1
-2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Gethy,3
+2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Gety,3
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Goma,0
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Jiba,2
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Kalunguta,13
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Kilo,8
-2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Miti-Murhesa,1
-2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Mongbalu,346
+2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Miti Murhesa,1
+2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Mongbwalu,346
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Nizi,6
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Nyankunde,52
 2026-05-30,insp_sitrep__cumulative_suspected_cases__daily,Oicha,0
@@ -777,8 +777,8 @@ target_end_date,target,location,observation
 2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Katwa,0
 2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Kilo,2
 2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Kyondo,0
-2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Miti-Murhesa,0
-2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Mongbalu,88
+2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Miti Murhesa,0
+2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Mongbwalu,88
 2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Nizi,2
 2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Nyankunde,12
 2026-05-30,insp_sitrep__cumulative_suspected_deaths__daily,Oicha,0
@@ -786,8 +786,8 @@ target_end_date,target,location,observation
 2026-05-30,insp_sitrep__hospitalised__daily,Aru,5
 2026-05-30,insp_sitrep__hospitalised__daily,Bambu,10
 2026-05-30,insp_sitrep__hospitalised__daily,Bunia,23
-2026-05-30,insp_sitrep__hospitalised__daily,Mongbalu,22
-2026-05-30,insp_sitrep__hospitalised__daily,Nyakunde,44
+2026-05-30,insp_sitrep__hospitalised__daily,Mongbwalu,22
+2026-05-30,insp_sitrep__hospitalised__daily,Nyankunde,44
 2026-05-30,insp_sitrep__hospitalised__daily,Rwampara,19
 2026-05-30,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,282
 2026-05-30,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,42
@@ -802,7 +802,7 @@ target_end_date,target,location,observation
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,80
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,2
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Damas,1
-2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,7
@@ -813,7 +813,7 @@ target_end_date,target,location,observation
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Logo,1
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,47
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-01,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
@@ -827,7 +827,7 @@ target_end_date,target,location,observation
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,8
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,2
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,5
@@ -838,7 +838,7 @@ target_end_date,target,location,observation
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,10
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-01,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
@@ -866,8 +866,8 @@ target_end_date,target,location,observation
 2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,Logo,1
 2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
-2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,Mongbalu,47
+2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
+2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,47
 2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
 2026-06-02,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,22
@@ -892,8 +892,8 @@ target_end_date,target,location,observation
 2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
 2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
-2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbalu,10
+2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
+2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,10
 2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
 2026-06-02,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,1
@@ -910,7 +910,7 @@ target_end_date,target,location,observation
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,97
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,2
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Damas,3
-2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,7
@@ -919,7 +919,7 @@ target_end_date,target,location,observation
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Kyondo,1
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Lita,2
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,47
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,NA,97
 2026-06-03,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,2
@@ -933,7 +933,7 @@ target_end_date,target,location,observation
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,9
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,2
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,5
@@ -942,7 +942,7 @@ target_end_date,target,location,observation
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Kyondo,0
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Lita,0
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,10
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,NA,1
 2026-06-03,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
@@ -958,7 +958,7 @@ target_end_date,target,location,observation
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,123
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,4
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Damas,3
-2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,11
@@ -969,7 +969,7 @@ target_end_date,target,location,observation
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Logo,2
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,1
+2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,1
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,64
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-04,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,5
@@ -984,7 +984,7 @@ target_end_date,target,location,observation
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,11
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,2
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,7
@@ -995,7 +995,7 @@ target_end_date,target,location,observation
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,21
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-04,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
@@ -1013,7 +1013,7 @@ target_end_date,target,location,observation
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,138
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,4
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Damas,3
-2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,11
@@ -1024,7 +1024,7 @@ target_end_date,target,location,observation
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Logo,2
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,74
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-05,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,5
@@ -1039,7 +1039,7 @@ target_end_date,target,location,observation
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,14
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,2
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,7
@@ -1050,7 +1050,7 @@ target_end_date,target,location,observation
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,21
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-05,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
@@ -1068,7 +1068,7 @@ target_end_date,target,location,observation
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,142
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,4
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Damas,3
-2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,11
@@ -1079,7 +1079,7 @@ target_end_date,target,location,observation
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Logo,2
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,92
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-06,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,5
@@ -1094,7 +1094,7 @@ target_end_date,target,location,observation
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,14
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,2
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,8
@@ -1105,7 +1105,7 @@ target_end_date,target,location,observation
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,25
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-06,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
@@ -1123,7 +1123,7 @@ target_end_date,target,location,observation
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,152
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,4
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Damas,3
-2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,11
@@ -1134,7 +1134,7 @@ target_end_date,target,location,observation
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Logo,2
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,98
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-07,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,5
@@ -1149,7 +1149,7 @@ target_end_date,target,location,observation
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,15
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,2
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,8
@@ -1160,7 +1160,7 @@ target_end_date,target,location,observation
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,29
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-07,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
@@ -1178,7 +1178,7 @@ target_end_date,target,location,observation
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,163
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,6
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Damas,3
-2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,12
@@ -1189,7 +1189,7 @@ target_end_date,target,location,observation
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Logo,2
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,1
+2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,1
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,114
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-08,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,5
@@ -1204,7 +1204,7 @@ target_end_date,target,location,observation
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,15
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,4
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,8
@@ -1215,7 +1215,7 @@ target_end_date,target,location,observation
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,40
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-08,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
@@ -1233,7 +1233,7 @@ target_end_date,target,location,observation
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,173
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,6
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Damas,3
-2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,12
@@ -1244,7 +1244,7 @@ target_end_date,target,location,observation
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Logo,2
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,1
-2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,127
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-09,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,5
@@ -1260,7 +1260,7 @@ target_end_date,target,location,observation
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,15
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,4
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,8
@@ -1271,7 +1271,7 @@ target_end_date,target,location,observation
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
-2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,47
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-09,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
@@ -1290,7 +1290,7 @@ target_end_date,target,location,observation
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,185
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,9
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Damas,3
-2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Kambala,1
@@ -1303,7 +1303,7 @@ target_end_date,target,location,observation
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,2
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,132
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-10,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,7
@@ -1320,7 +1320,7 @@ target_end_date,target,location,observation
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,17
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,5
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Kambala,1
@@ -1333,7 +1333,7 @@ target_end_date,target,location,observation
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,49
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-10,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,0
@@ -1353,7 +1353,7 @@ target_end_date,target,location,observation
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,191
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,7
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Damas,3
-2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Kambala,1
@@ -1366,7 +1366,7 @@ target_end_date,target,location,observation
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,2
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,136
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
 2026-06-11,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,9
@@ -1383,7 +1383,7 @@ target_end_date,target,location,observation
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,17
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,5
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,1
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Kambala,1
@@ -1396,7 +1396,7 @@ target_end_date,target,location,observation
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,0
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,1
-2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,52
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
 2026-06-11,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,1
@@ -1416,7 +1416,7 @@ target_end_date,target,location,observation
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,212
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,18
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Damas,4
-2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Kambala,1
@@ -1430,10 +1430,10 @@ target_end_date,target,location,observation
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,5
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,164
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
-2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,1
+2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,1
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,11
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,38
 2026-06-13,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,2
@@ -1448,7 +1448,7 @@ target_end_date,target,location,observation
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,20
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,7
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Kambala,1
@@ -1462,10 +1462,10 @@ target_end_date,target,location,observation
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,3
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,73
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
-2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,1
+2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,1
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,1
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,4
 2026-06-13,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -1483,7 +1483,7 @@ target_end_date,target,location,observation
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,215
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,19
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Damas,4
-2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Kambala,1
@@ -1497,10 +1497,10 @@ target_end_date,target,location,observation
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,5
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,175
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
-2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,1
+2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,1
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,11
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,42
 2026-06-14,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,2
@@ -1515,7 +1515,7 @@ target_end_date,target,location,observation
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,20
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,7
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Kambala,1
@@ -1529,10 +1529,10 @@ target_end_date,target,location,observation
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,3
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,80
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
-2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,1
+2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,1
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,1
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,4
 2026-06-14,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -1550,7 +1550,7 @@ target_end_date,target,location,observation
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,215
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,19
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Damas,4
-2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Gethy,1
+2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,1
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Kambala,1
@@ -1564,10 +1564,10 @@ target_end_date,target,location,observation
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,5
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,185
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,NA,94
-2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,1
+2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,1
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,16
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,45
 2026-06-15,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,2
@@ -1582,7 +1582,7 @@ target_end_date,target,location,observation
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,20
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,7
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
-2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Gethy,0
+2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Kambala,1
@@ -1596,10 +1596,10 @@ target_end_date,target,location,observation
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,3
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,83
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,NA,10
-2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,1
+2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,1
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,1
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,4
 2026-06-15,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -1632,10 +1632,10 @@ target_end_date,target,location,observation
 2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,5
 2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,189
 2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,1
-2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,1
+2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,1
 2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,16
 2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,45
 2026-06-16,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -1669,11 +1669,11 @@ target_end_date,target,location,observation
 2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,5
 2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,189
 2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,1
 2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,1
+2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,1
 2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,25
 2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,68
 2026-06-17,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -1704,11 +1704,11 @@ target_end_date,target,location,observation
 2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,3
 2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,83
 2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,1
 2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,1
+2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,1
 2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,5
 2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,6
 2026-06-17,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -1742,10 +1742,10 @@ target_end_date,target,location,observation
 2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,7
 2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,198
 2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,1
-2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,1
+2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,1
 2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,26
 2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,77
 2026-06-18,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -1776,11 +1776,11 @@ target_end_date,target,location,observation
 2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,4
 2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,87
 2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,1
 2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,1
+2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,1
 2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,5
 2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,7
 2026-06-18,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -1814,11 +1814,11 @@ target_end_date,target,location,observation
 2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,7
 2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,209
 2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,1
 2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,1
+2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,1
 2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,26
 2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,79
 2026-06-19,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -1849,11 +1849,11 @@ target_end_date,target,location,observation
 2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,4
 2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,89
 2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,1
 2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,1
+2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,1
 2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,5
 2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,7
 2026-06-19,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -1887,11 +1887,11 @@ target_end_date,target,location,observation
 2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,7
 2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,220
 2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,1
 2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,1
+2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,1
 2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,26
 2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,79
 2026-06-20,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -1922,11 +1922,11 @@ target_end_date,target,location,observation
 2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,4
 2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,91
 2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,1
 2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,1
+2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,1
 2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,5
 2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,7
 2026-06-20,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -1960,11 +1960,11 @@ target_end_date,target,location,observation
 2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,11
 2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,229
 2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,2
 2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,2
+2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,2
 2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,26
 2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,86
 2026-06-21,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -1995,11 +1995,11 @@ target_end_date,target,location,observation
 2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,5
 2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,96
 2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,1
 2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,2
+2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,2
 2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,5
 2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,9
 2026-06-21,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2033,11 +2033,11 @@ target_end_date,target,location,observation
 2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,14
 2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,237
 2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,2
 2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,2
+2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,2
 2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,30
 2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,86
 2026-06-22,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2068,11 +2068,11 @@ target_end_date,target,location,observation
 2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,6
 2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,100
 2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,1
 2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,2
+2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,2
 2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,6
 2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,9
 2026-06-22,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2109,7 +2109,7 @@ target_end_date,target,location,observation
 2026-06-23,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,241
 2026-06-23,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,2
 2026-06-23,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-23,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,5
+2026-06-23,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,5
 2026-06-23,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,30
 2026-06-23,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,86
 2026-06-23,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2140,11 +2140,11 @@ target_end_date,target,location,observation
 2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,8
 2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,103
 2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,3
+2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,3
 2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,6
 2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,9
 2026-06-23,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2178,11 +2178,11 @@ target_end_date,target,location,observation
 2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,17
 2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,245
 2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,2
 2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,5
+2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,5
 2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,30
 2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,91
 2026-06-24,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2212,11 +2212,11 @@ target_end_date,target,location,observation
 2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,8
 2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,105
 2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,3
+2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,3
 2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,6
 2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,10
 2026-06-24,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2250,11 +2250,11 @@ target_end_date,target,location,observation
 2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,2
 2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,17
 2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,250
 2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,2
 2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,5
+2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,5
 2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,32
 2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
 2026-06-25,insp_sitrep__cumulative_confirmed_cases__daily,Rimba,3
@@ -2284,11 +2284,11 @@ target_end_date,target,location,observation
 2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,1
 2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,8
 2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,109
 2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,3
+2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,3
 2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,6
 2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,11
 2026-06-25,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2326,11 +2326,11 @@ target_end_date,target,location,observation
 2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,1
 2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,24
 2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,258
 2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,3
 2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,11
+2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,11
 2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,41
 2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,94
 2026-06-29,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2362,11 +2362,11 @@ target_end_date,target,location,observation
 2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,0
 2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,12
 2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,123
 2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,5
+2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,5
 2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,9
 2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,15
 2026-06-29,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2402,11 +2402,11 @@ target_end_date,target,location,observation
 2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,2
 2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,24
 2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,264
 2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,3
 2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,12
+2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,12
 2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,61
 2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,95
 2026-06-30,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2439,11 +2439,11 @@ target_end_date,target,location,observation
 2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,1
 2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,12
 2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,126
 2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,5
+2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,5
 2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,19
 2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,16
 2026-06-30,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2479,11 +2479,11 @@ target_end_date,target,location,observation
 2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,2
 2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,24
 2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,270
 2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,3
 2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,12
+2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,12
 2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,65
 2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,95
 2026-07-01,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2516,11 +2516,11 @@ target_end_date,target,location,observation
 2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,1
 2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,12
 2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,127
 2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,5
+2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,5
 2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,19
 2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,16
 2026-07-01,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2556,11 +2556,11 @@ target_end_date,target,location,observation
 2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,4
 2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,24
 2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,1
-2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,273
 2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,3
 2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,12
+2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,12
 2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,65
 2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,95
 2026-07-02,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2593,11 +2593,11 @@ target_end_date,target,location,observation
 2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,1
 2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,12
 2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,136
 2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,5
+2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,5
 2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,19
 2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,16
 2026-07-02,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2633,11 +2633,11 @@ target_end_date,target,location,observation
 2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,4
 2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,26
 2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,2
-2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,276
 2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,4
 2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,12
+2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,12
 2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,65
 2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,95
 2026-07-03,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2670,11 +2670,11 @@ target_end_date,target,location,observation
 2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,1
 2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,14
 2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,139
 2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,5
+2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,5
 2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,19
 2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,17
 2026-07-03,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2710,11 +2710,11 @@ target_end_date,target,location,observation
 2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,4
 2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,26
 2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,2
-2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,278
 2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,6
 2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,12
+2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,12
 2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,72
 2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,95
 2026-07-04,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2747,11 +2747,11 @@ target_end_date,target,location,observation
 2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,1
 2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,14
 2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,141
 2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,5
+2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,5
 2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,19
 2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,17
 2026-07-04,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2787,11 +2787,11 @@ target_end_date,target,location,observation
 2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,4
 2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,33
 2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,3
-2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,288
 2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,8
 2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,20
+2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,20
 2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,78
 2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,96
 2026-07-05,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2824,11 +2824,11 @@ target_end_date,target,location,observation
 2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,1
 2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,14
 2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,149
 2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,5
+2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,5
 2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,19
 2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,19
 2026-07-05,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2865,11 +2865,11 @@ target_end_date,target,location,observation
 2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,5
 2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,39
 2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,3
-2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,298
 2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,8
 2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,33
+2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,33
 2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,84
 2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,96
 2026-07-06,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2903,11 +2903,11 @@ target_end_date,target,location,observation
 2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,2
 2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,20
 2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,154
 2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,12
+2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,12
 2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,24
 2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,20
 2026-07-06,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -2944,11 +2944,11 @@ target_end_date,target,location,observation
 2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,5
 2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,40
 2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,3
-2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,310
 2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,8
 2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,35
+2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,35
 2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,94
 2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,97
 2026-07-07,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -2982,11 +2982,11 @@ target_end_date,target,location,observation
 2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,2
 2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,20
 2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,165
 2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,13
+2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,13
 2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,28
 2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,20
 2026-07-07,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -3023,11 +3023,11 @@ target_end_date,target,location,observation
 2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,5
 2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,43
 2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,3
-2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,315
 2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,8
 2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,35
+2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,35
 2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,104
 2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,97
 2026-07-08,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -3061,11 +3061,11 @@ target_end_date,target,location,observation
 2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,2
 2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,23
 2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,167
 2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,13
+2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,13
 2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,36
 2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,22
 2026-07-08,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -3102,11 +3102,11 @@ target_end_date,target,location,observation
 2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,5
 2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,43
 2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,3
-2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
 2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,327
 2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,9
 2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
-2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,35
+2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,35
 2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,107
 2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,97
 2026-07-09,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
@@ -3140,11 +3140,11 @@ target_end_date,target,location,observation
 2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,2
 2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,23
 2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
-2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
 2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,170
 2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
 2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
-2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,13
+2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,13
 2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,36
 2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,22
 2026-07-09,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
@@ -3155,3 +3155,179 @@ target_end_date,target,location,observation
 2026-07-09,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,1830
 2026-07-09,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,648
 2026-07-09,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,284
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Aru,3
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Aungba,6
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Bambu,31
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Beni,30
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Boga,1
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,503
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,43
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Damas,5
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Drodro,4
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Fataki,4
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,2
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Kambala,2
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,67
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Kilo,9
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Komanda,25
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Kyondo,5
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Lita,45
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Logo,7
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Lolwa,1
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Lubunga (Tshopo),1
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Mabalako,1
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Makiso Kisangani,2
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,5
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,8
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,50
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Mangobo,1
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,3
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Miti Murhesa,3
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,329
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,9
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Nia Nia,35
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,110
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,97
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Rimba,4
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,384
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Tchomia,19
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Vuhovi,1
+2026-07-10,insp_sitrep__cumulative_confirmed_cases__daily,Wamba,1
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Aru,1
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Aungba,2
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Bambu,10
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Beni,20
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Boga,1
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,156
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,20
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Drodro,3
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Fataki,1
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Kambala,2
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,45
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Kilo,1
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Komanda,8
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Kyondo,3
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Lita,19
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Lolwa,1
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Lubunga (Tshopo),0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Mabalako,0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Makiso Kisangani,2
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,4
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,3
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,29
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Mangobo,0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Miti Murhesa,1
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,171
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Nia Nia,13
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,36
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,23
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Rimba,0
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,89
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Tchomia,4
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Vuhovi,1
+2026-07-10,insp_sitrep__cumulative_confirmed_deaths__daily,Wamba,1
+2026-07-10,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,1873
+2026-07-10,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,672
+2026-07-10,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,299
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Ariwara,1
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Aru,3
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Aungba,6
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Bambu,31
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Beni,30
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Boga,1
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Bunia,507
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Butembo,44
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Damas,5
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Drodro,4
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Fataki,4
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Gety,1
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Goma,1
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Kalunguta,2
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Kambala,2
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Katwa,71
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Kilo,9
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Komanda,27
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Kyondo,7
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Lita,48
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Logo,7
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Lolwa,1
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Lubunga (Tshopo),1
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Mabalako,1
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Makiso Kisangani,2
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Mambasa,5
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Mandima,8
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Mangala,50
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Mangobo,1
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Masereka,3
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Miti-Murhesa,3
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Mongbwalu,336
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Musienene,10
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,NA,17
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Nia-Nia,36
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Nizi,121
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Nyankunde,99
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Oicha,3
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Rumba,4
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Rwampara,393
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Tchomia,19
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Vuhovi,1
+2026-07-11,insp_sitrep__cumulative_confirmed_cases__daily,Wamba,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Ariwara,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Aru,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Aungba,2
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Bambu,10
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Beni,20
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Boga,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Bunia,160
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Butembo,21
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Damas,0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Drodro,3
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Fataki,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Gety,0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Goma,0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Kalunguta,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Kambala,2
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Katwa,47
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Kilo,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Komanda,8
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Kyondo,3
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Lita,19
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Logo,0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Lolwa,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Lubunga (Tshopo),0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Mabalako,0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Makiso Kisangani,2
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Mambasa,4
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Mandima,3
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Mangala,29
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Mangobo,0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Masereka,0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Miti-Murhesa,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Mongbwalu,177
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Musienene,2
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,NA,0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Nia-Nia,12
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Nizi,47
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Nyankunde,25
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Oicha,2
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Rumba,0
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Rwampara,90
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Tchomia,4
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Vuhovi,1
+2026-07-11,insp_sitrep__cumulative_confirmed_deaths__daily,Wamba,1
+2026-07-11,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,1926
+2026-07-11,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,702
+2026-07-11,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,299
