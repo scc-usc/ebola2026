@@ -5028,3 +5028,5 @@ target_end_date,target,location,observation
 2026-08-04,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,3973
 2026-08-04,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,1801
 2026-08-04,insp_sitrep__national_cumulative_suspected_cases__daily,DRC,270
+2026-08-08,insp_sitrep__national_cumulative_confirmed_cases__daily,DRC,4209
+2026-08-08,insp_sitrep__national_cumulative_confirmed_deaths__daily,DRC,1916
